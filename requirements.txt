@@ -1,0 +1,7 @@
+scapy
+Flask
+Flask-WTF
+geoip2
+pyx
+requests
+gunicorn
